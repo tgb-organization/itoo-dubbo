@@ -22,7 +22,7 @@
 
     <!-- 引用dubbo服务 -->
     <dubbo:application name="jarvis-manager-web"/>
-    <dubbo:registry protocol="zookeeper" address="192.168.203.8:2181,192.168.203.8:2182,192.168.203.8:2183"/>
+    <dubbo:registry protocol="zookeeper" address="192.168.22.89:2181"/>
     <dubbo:reference interface="com.jarvis.service.ItemService" id="itemService" />
 
     <!--添加swagger配置-->

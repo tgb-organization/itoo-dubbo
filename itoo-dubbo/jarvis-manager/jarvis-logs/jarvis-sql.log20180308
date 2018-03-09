@@ -1,0 +1,21 @@
+######2018-03-08 18:58:48:029 | took 1ms | statement | connection 0
+ select 
+     
+    id, title, sell_point, price, num, barcode, image, cid, status, created, updated
+   
+    from tb_item
+    where id = 738388;
+######2018-03-08 19:00:12:962 | took 1ms | statement | connection 0
+ select 
+     
+    id, title, sell_point, price, num, barcode, image, cid, status, created, updated
+   
+    from tb_item
+    where id = 738388;
+######2018-03-08 19:01:55:770 | took 2ms | statement | connection 0
+ select 
+     
+    id, title, sell_point, price, num, barcode, image, cid, status, created, updated
+   
+    from tb_item
+    where id = 738388;

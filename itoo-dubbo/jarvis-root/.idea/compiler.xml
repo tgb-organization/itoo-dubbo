@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="jarvis-manager-api" />
+        <module name="jarvis-manager-dao" />
+        <module name="jarvis-manager-pojo" />
+        <module name="jarvis-manager-service" />
+        <module name="jarvis-manager-web" />
+        <module name="jarvis-tool" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="jarvis-manager" target="1.5" />
+      <module name="jarvis-manager-api" target="1.5" />
+      <module name="jarvis-manager-dao" target="1.5" />
+      <module name="jarvis-manager-pojo" target="1.5" />
+      <module name="jarvis-manager-service" target="1.8" />
+      <module name="jarvis-manager-web" target="1.5" />
+      <module name="jarvis-root" target="1.5" />
+      <module name="jarvis-tool" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

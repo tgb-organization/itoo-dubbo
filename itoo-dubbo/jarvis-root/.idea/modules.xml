@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../jarvis-manager/jarvis-manager.iml" filepath="$PROJECT_DIR$/../jarvis-manager/jarvis-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../jarvis-manager/jarvis-manager-api/jarvis-manager-api.iml" filepath="$PROJECT_DIR$/../jarvis-manager/jarvis-manager-api/jarvis-manager-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../jarvis-manager/jarvis-manager-dao/jarvis-manager-dao.iml" filepath="$PROJECT_DIR$/../jarvis-manager/jarvis-manager-dao/jarvis-manager-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../jarvis-manager/jarvis-manager-pojo/jarvis-manager-pojo.iml" filepath="$PROJECT_DIR$/../jarvis-manager/jarvis-manager-pojo/jarvis-manager-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../jarvis-manager/jarvis-manager-service/jarvis-manager-service.iml" filepath="$PROJECT_DIR$/../jarvis-manager/jarvis-manager-service/jarvis-manager-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../jarvis-manager-web/jarvis-manager-web.iml" filepath="$PROJECT_DIR$/../jarvis-manager-web/jarvis-manager-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jarvis-root.iml" filepath="$PROJECT_DIR$/jarvis-root.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../jarvis-tool/jarvis-tool.iml" filepath="$PROJECT_DIR$/../jarvis-tool/jarvis-tool.iml" />
+    </modules>
+  </component>
+</project>

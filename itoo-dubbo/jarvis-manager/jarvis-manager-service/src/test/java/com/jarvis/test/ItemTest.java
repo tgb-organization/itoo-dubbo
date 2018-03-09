@@ -20,11 +20,5 @@ public class ItemTest extends CommonApi{
         }
     }
 
-    //多线程测试
-    @Test
-    public void test(){
-        System.out.println("##############"+Thread.currentThread().getName());
-    }
-
 
 }

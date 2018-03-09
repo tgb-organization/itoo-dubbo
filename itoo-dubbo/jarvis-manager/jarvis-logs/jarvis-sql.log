@@ -1,0 +1,7 @@
+######2018-03-09 13:44:31:822 | took 23ms | statement | connection 0
+ select 
+     
+    id, title, sell_point, price, num, barcode, image, cid, status, created, updated
+   
+    from tb_item
+    where id = 738388;
